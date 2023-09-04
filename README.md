@@ -1,0 +1,2 @@
+# Early-Stage-Disease-Diagnosis-System-Using-Human-Nail-Image-Processing-Using-IBM-WATSON
+Human hand nails are used to analyze many diseases at an early stage of diagnosis. Nail features like nail color are used for analysis. The system can detect up to 16 diseases like clubbing, eczema, leukonychia, Darier disease, etc. The proposed system is developed using VGG16 Model. The front end is developed using HTML, CSS.
